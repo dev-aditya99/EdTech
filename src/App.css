@@ -7,7 +7,7 @@
 body {
   background: url("https://images.pexels.com/photos/673648/pexels-photo-673648.jpeg?auto=compress&cs=tinysrgb&w=600") no-repeat center;
   background-size: cover;
-  /* font-family: 'Poppins', sans-serif; */
+  font-family: 'Poppins', sans-serif;
 }
 
 .main {
